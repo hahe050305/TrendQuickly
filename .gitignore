@@ -1,0 +1,7 @@
+__pycache__/
+*.pkl
+*.csv
+*.log
+*.env
+*.db
+venv/
