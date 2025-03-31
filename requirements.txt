@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+google-api-python-client
+numpy
+scikit-learn
